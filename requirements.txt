@@ -6,3 +6,4 @@ pydantic==2.4.0
 web3==2.8.6
 pydantic==1.0.6
 web3==1.2.8
+web3==1.4.7
