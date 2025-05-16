@@ -33,3 +33,4 @@
 # optimize 1548
 # optimize 6162
 # fix 5731
+# optimize 5494
