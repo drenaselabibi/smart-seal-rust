@@ -50,3 +50,4 @@ requests==2.3.1
 web3==0.1.6
 requests==0.2.2
 aiohttp==0.5.2
+web3==0.9.9
